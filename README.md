@@ -19,7 +19,7 @@ All credit for the original concept, design, and implementation belongs to Udon.
 ## 🌍 Translation Status
 
 | Language | Folder Name | Status | Contributor(s) | Reviewer(s) |
-|---|---|---|---|
+|---|---|---|---|---|
 | Japanese (original) | `Japanese` | ✅ Complete (source) | Udon | (source) |
 | English | `English` | ✅ Complete | Puddle | Puddle |
 | Simplified Chinese | `ChineseSimplified` | ⚠️ Complete, unreviewed | Puddle | ~ |
