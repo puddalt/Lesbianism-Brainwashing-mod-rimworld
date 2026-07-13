@@ -36,11 +36,11 @@ All credit for the original concept, design, and implementation belongs to Udon.
 | Turkish | `Turkish` | ⬜ Not started | ~ | ~ |
 | Ukrainian | `Ukrainian` | ⬜ Not started | ~ | ~ |
 
-> ⚠️ **Confidence note:** Only the **English** and **Japanese (original)** translations are confirmed accurate by the maintainers. All other languages marked "Complete, unreviewed" were produced with DeepL assistance and have **not** been verified by a fluent speaker. They may contain awkward phrasing or outright errors — please treat them as a draft, not a finished translation. If you're fluent in one of these languages, review/corrections are very welcome via PR.
+> ⚠️ **Confidence note:** Only the **English** and **Japanese (original)** translations are confirmed accurate by the maintainers. All other languages marked "Complete, unreviewed" were produced with DeepL assistance and have **not** been verified by a fluent speaker. They may contain awkward phrasing or outright errors — please treat them as a draft, not a finished translation. If you're fluent in one of these languages, review/corrections are very welcome via a push request.
 
-Want to add a language not listed here? Open a PR — the list will grow with contributions.
+Want to add a language not listed here? Open a push request — the list will grow with contributions.
 
-> **Note:** Some translations in this fork were produced with the assistance of [DeepL](https://www.deepl.com/) and may not have been fully human-reviewed yet. See the status table above and individual PRs for details on which languages have been reviewed by a fluent speaker versus machine-assisted only.
+> **Note:** Some translations in this fork were produced with the assistance of [DeepL](https://www.deepl.com/) and may not have been fully human-reviewed yet. See the status table above and individual push requests for details on which languages have been reviewed by a fluent speaker versus machine-assisted only.
 
 ---
 
