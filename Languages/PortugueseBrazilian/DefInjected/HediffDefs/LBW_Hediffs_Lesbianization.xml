@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>LBW_Hediff_Lesbianization</defName>
+    <label>Programa de lavagem cerebral para tornar as pessoas lésbicas</label>
+    <labelNoun>Programa de lavagem cerebral para tornar as pessoas lésbicas</labelNoun>
+    <description>A maravilha do amor lésbico ficou profundamente gravada em mim. Não tem mais volta.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <addedPartProps>
+      <partEfficiency>1.01</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="LesbianizationBrainWashingProgram.LBW_HediffCompProperties_Lesbianization">
+        <brainWashingTraitDef>Gay</brainWashingTraitDef>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

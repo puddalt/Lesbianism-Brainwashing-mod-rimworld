@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>LBW_Hediff_Lesbianization</defName>
+    <label>레즈비언화 세뇌 프로그램</label>
+    <labelNoun>레즈비언화 세뇌 프로그램</labelNoun>
+    <description>레즈비언의 매력을 철저히 각인당했습니다. 이제 돌이킬 수 없습니다.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <addedPartProps>
+      <partEfficiency>1.01</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="LesbianizationBrainWashingProgram.LBW_HediffCompProperties_Lesbianization">
+        <brainWashingTraitDef>Gay</brainWashingTraitDef>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

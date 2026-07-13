@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>LBW_Hediff_Lesbianization</defName>
+    <label>Programme de lavage de cerveau visant à rendre les femmes lesbiennes</label>
+    <labelNoun>Programme de lavage de cerveau visant à rendre les femmes lesbiennes</labelNoun>
+    <description>On m'a fait comprendre de manière très claire tout ce qu'il y a de merveilleux dans l'homosexualité féminine. Je ne peux plus revenir en arrière.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <addedPartProps>
+      <partEfficiency>1.01</partEfficiency>
+    </addedPartProps>
+    <comps>
+      <li Class="LesbianizationBrainWashingProgram.LBW_HediffCompProperties_Lesbianization">
+        <brainWashingTraitDef>Gay</brainWashingTraitDef>
+      </li>
+    </comps>
+  </HediffDef>
+</Defs>

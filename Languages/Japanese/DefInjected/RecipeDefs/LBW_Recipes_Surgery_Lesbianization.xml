@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Abstract="True" ParentName="SurgeryFlesh" Name="LBW_SurgeryBase">
+    <recipeUsers>
+      <li>Human</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--==================== Install artificial parts =======================-->
+  <RecipeDef ParentName="LBW_SurgeryBase">
+    <defName>LBW_Recipe_Surgery_Lesbianization</defName>
+    <label>レズ化洗脳プログラム</label>
+    <description>レズの素晴らしさを徹底的に脳に刻み込み、同性愛者にします。</description>
+    <jobString>洗脳中</jobString>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <workAmount>1250</workAmount>
+    <surgerySuccessChanceFactor>0.99</surgerySuccessChanceFactor>
+    <skillRequirements>
+      <Medicine>1</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Brain</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>LBW_Hediff_Lesbianization</addsHediff>
+  </RecipeDef>
+</Defs>
