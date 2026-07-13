@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>LBWO - Lesbianization BrainWashing Operation</name>
-	<packageId>Puddle.LesbianizationBrainWashingOperation</packageId>
+	<packageId>Puddle_uwu.LesbianizationBrainWashingOperation</packageId>
 	<author>Puddle</author>
 	<supportedVersions>
 		<li>1.1</li>
@@ -13,7 +13,9 @@
 	</supportedVersions>
     <modIconPath IgnoreIfNoMatchingField="True">Icon/LBWO_ModIcon</modIconPath>
 	<description>LBWO…Lesbianization BrainWashing Operation
+
 This is a surgery to spread the wonderfulness of lesbianism throughout the world in order to lesbianize the entire human race.
+
 The brainwashing surgery adds "gay" to the traits of the patient.
 
 Translations fork by Puddle origonal by Udon</description>
