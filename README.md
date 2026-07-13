@@ -18,23 +18,23 @@ All credit for the original concept, design, and implementation belongs to Udon.
 
 ## 🌍 Translation Status
 
-| Language | Folder Name | Status | Contributor(s) |
+| Language | Folder Name | Status | Contributor(s) | Reviewer(s) |
 |---|---|---|---|
-| Japanese (original) | `Japanese` | ✅ Complete (source) | Udon |
-| English | `English` | ✅ Complete | — |
-| Simplified Chinese | `ChineseSimplified` | ⚠️ Complete, unreviewed | — |
-| French | `French` | ⚠️ Complete, unreviewed | — |
-| German | `German` | ⚠️ Complete, unreviewed | — |
-| Korean | `Korean` | ⚠️ Complete, unreviewed | — |
-| Polish | `Polish` | ⚠️ Complete, unreviewed | — |
-| Portuguese (Brazil) | `PortugueseBrazilian` | ⚠️ Complete, unreviewed | — |
-| Russian | `Russian` | ⚠️ Complete, unreviewed | — |
-| Spanish (Spain) | `Spanish` | ⚠️ Complete, unreviewed | — |
-| Spanish (Latin America) | `SpanishLatin` | ⚠️ Complete, unreviewed | — |
-| Traditional Chinese | `ChineseTraditional` | ⬜ Not started | — |
-| Italian | `Italian` | ⬜ Not started | — |
-| Turkish | `Turkish` | ⬜ Not started | — |
-| Ukrainian | `Ukrainian` | ⬜ Not started | — |
+| Japanese (original) | `Japanese` | ✅ Complete (source) | Udon | (source) |
+| English | `English` | ✅ Complete | Puddle | Puddle |
+| Simplified Chinese | `ChineseSimplified` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| French | `French` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| German | `German` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Korean | `Korean` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Polish | `Polish` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Portuguese (Brazil) | `PortugueseBrazilian` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Russian | `Russian` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Spanish (Spain) | `Spanish` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Spanish (Latin America) | `SpanishLatin` | ⚠️ Complete, unreviewed | Puddle | ~ |
+| Traditional Chinese | `ChineseTraditional` | ⬜ Not started | ~ | ~ |
+| Italian | `Italian` | ⬜ Not started | ~ | ~ |
+| Turkish | `Turkish` | ⬜ Not started | ~ | ~ |
+| Ukrainian | `Ukrainian` | ⬜ Not started | ~ | ~ |
 
 > ⚠️ **Confidence note:** Only the **English** and **Japanese (original)** translations are confirmed accurate by the maintainers. All other languages marked "Complete, unreviewed" were produced with DeepL assistance and have **not** been verified by a fluent speaker. They may contain awkward phrasing or outright errors — please treat them as a draft, not a finished translation. If you're fluent in one of these languages, review/corrections are very welcome via PR.
 
